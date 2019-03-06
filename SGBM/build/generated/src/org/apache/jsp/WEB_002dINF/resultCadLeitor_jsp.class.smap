@@ -1,0 +1,20 @@
+SMAP
+resultCadLeitor_jsp.java
+JSP
+*S JSP
+*F
++ 0 resultCadLeitor.jsp
+WEB-INF/resultCadLeitor.jsp
+*L
+5:49
+10,30:50
+39,70:80
+109:150,3
+110,9:153
+119:162,3
+120,70:165
+190,3:235,3
+193,30:244
+223:274,3
+224,34:277
+*E
