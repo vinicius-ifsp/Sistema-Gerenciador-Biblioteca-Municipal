@@ -4,4 +4,4 @@ O sistema foi proposto e apresentado pelos alunos Vinícius e Nicholas (nhchiuzi
 
 Esta versão não está com todas as funcionalidades implementadas, devido o prazo curto para o desenvolvimento foram priorizadas somente as selecionadas pelo docente.
 
-O arquivo "Sql_Banco.sql" contém o script para criação do banco de dados. É necessário alterar no pacote "conexao", na classe "MysqlDB" é necessário alterar o nome de usuário e senha do banco.  
+O arquivo "Sql_Banco.sql" contém o script para criação do banco de dados. É necessário alterar no pacote "conexao", na classe "MysqlDB" o nome de usuário e senha do banco. 
