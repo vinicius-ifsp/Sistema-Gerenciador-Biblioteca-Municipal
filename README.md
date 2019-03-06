@@ -1,4 +1,4 @@
-Sistema Gerenciador de Biblioteca Municipal desenvolvido durante a disciplina Programação para Internet do curso Técnico em Informática para Internet Integrado ao Ensino Médio.
+Sistema Gerenciador de Biblioteca Municipal desenvolvido durante a disciplina Programação para Internet do curso Técnico em Informática para Internet Integrado ao Ensino Médio. Para o desenvolvimento foram utilizadas as tecnonologia Java Web, HTML, CSS3 e JavaScript.
 
 O sistema foi proposto e apresentado pelos alunos Vinícius e Nicholas (nhchiuzi@gmail.com) como projeto final ao docente da disciplina.
 
